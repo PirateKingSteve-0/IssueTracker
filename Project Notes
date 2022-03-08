@@ -1,0 +1,7 @@
+Installing mysql-connector in python
+
+command: pip install mysql-connector --user
+
+https://www.delftstack.com/howto/python/update-python-mac/
+
+The python interpreter needs to match the python ran in the script
